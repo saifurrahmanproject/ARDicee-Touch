@@ -1,7 +1,7 @@
 # ARDicee-Touch
 
 
-### This a simple ArKit app. You can measure anything by using this app. I Used here SCNVector3 and diceCollada scn file for 3D dice image. Thanks. 
+### This a simple ArKit app. You can see 3D Dice by touching on the screen and you can also delete all Dice by pressing delete button on top right. I Used here SCNVector3 and diceCollada scn file for 3D dice image. 
 
 
 #### App Icon 
