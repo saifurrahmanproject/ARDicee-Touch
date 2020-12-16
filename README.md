@@ -1,6 +1,7 @@
 # ARDicee-Touch
 
 
+### This a simple ArKit app. You can measure anything by using this app. I Used here SCNVector3 and diceCollada scn file for 3D dice image. Thanks. 
 
 
 #### App Icon 
